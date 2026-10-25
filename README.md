@@ -2,7 +2,7 @@
 
 <!-- Typing SVG Banner -->
 <a href="https://github.com/syamsul18782">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=00D2FF&center=true&vCenter=true&width=620&lines=Hi+there!+I'm+Syamsul+(SRPCOM)+👋;OpenWrt+Enthusiast+%26+Network+Engineer;Automation+%26+Telegram+Bot+Developer;Cloudflare+Zero+Trust+%26+Tunneling" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&pause=1000&color=00D2FF&center=true&vCenter=true&width=600&lines=Hi+there,+I+am+Syamsul+(SRPCOM);OpenWrt+Specialist+%26+Network+Engineer;Automation+%26+Telegram+Bot+Developer;Cloudflare+Zero+Trust+%26+Tunneling" alt="Typing SVG" />
 </a>
 
 <p align="center">
